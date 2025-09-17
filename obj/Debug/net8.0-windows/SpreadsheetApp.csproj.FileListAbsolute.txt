@@ -1,0 +1,51 @@
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.exe
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.deps.json
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.runtimeconfig.json
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.dll
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.pdb
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.dll
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\refint\SpreadsheetApp.dll
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.pdb
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.genruntimeconfig.cache
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\ref\SpreadsheetApp.dll
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.main_form.resources
+C:\Users\Eran Laptop\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.Properties.Resources.resources
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.exe
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.deps.json
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.runtimeconfig.json
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.dll
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.pdb
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.main_form.resources
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.Properties.Resources.resources
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.dll
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\refint\SpreadsheetApp.dll
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.pdb
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.genruntimeconfig.cache
+C:\Users\evaza\OneDrive - post.bgu.ac.il\שנה ג\סמסטר ו\מבוא למערכות הפעלה\עבודות\עבודה 3\SpreadsheetApp\obj\Debug\net8.0-windows\ref\SpreadsheetApp.dll
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.exe
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.deps.json
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.runtimeconfig.json
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.dll
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\bin\Debug\net8.0-windows\SpreadsheetApp.pdb
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.main_form.resources
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.Properties.Resources.resources
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.dll
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\refint\SpreadsheetApp.dll
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.pdb
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\SpreadsheetApp.genruntimeconfig.cache
+C:\Users\User\Desktop\הנדסת נתונים בן גוריון\שנה ב-ג\סמסטר ב\מערכות הפעלה\מטלות\מטלה 3\הגשה\SpreadsheetApp\obj\Debug\net8.0-windows\ref\SpreadsheetApp.dll

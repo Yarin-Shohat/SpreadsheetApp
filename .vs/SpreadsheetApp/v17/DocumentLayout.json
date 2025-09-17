@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05D1\u05DF \u05D2\u05D5\u05E8\u05D9\u05D5\u05DF\\\u05E9\u05E0\u05D4 \u05D1-\u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05DE\u05D8\u05DC\u05D5\u05EA\\\u05DE\u05D8\u05DC\u05D4 3\\\u05D4\u05D2\u05E9\u05D4\\SpreadsheetApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C581176E-D9DC-422D-BF8C-9A578DCE6F58}|SpreadsheetApp.csproj|c:\\users\\user\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05D1\u05DF \u05D2\u05D5\u05E8\u05D9\u05D5\u05DF\\\u05E9\u05E0\u05D4 \u05D1-\u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05DE\u05D8\u05DC\u05D5\u05EA\\\u05DE\u05D8\u05DC\u05D4 3\\\u05D4\u05D2\u05E9\u05D4\\spreadsheetapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C581176E-D9DC-422D-BF8C-9A578DCE6F58}|SpreadsheetApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C581176E-D9DC-422D-BF8C-9A578DCE6F58}|SpreadsheetApp.csproj|C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05D1\u05DF \u05D2\u05D5\u05E8\u05D9\u05D5\u05DF\\\u05E9\u05E0\u05D4 \u05D1-\u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05DE\u05D8\u05DC\u05D5\u05EA\\\u05DE\u05D8\u05DC\u05D4 3\\\u05D4\u05D2\u05E9\u05D4\\SpreadsheetApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C581176E-D9DC-422D-BF8C-9A578DCE6F58}|SpreadsheetApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05D1\u05DF \u05D2\u05D5\u05E8\u05D9\u05D5\u05DF\\\u05E9\u05E0\u05D4 \u05D1-\u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05DE\u05D8\u05DC\u05D5\u05EA\\\u05DE\u05D8\u05DC\u05D4 3\\\u05D4\u05D2\u05E9\u05D4\\SpreadsheetApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05D1\u05DF \u05D2\u05D5\u05E8\u05D9\u05D5\u05DF\\\u05E9\u05E0\u05D4 \u05D1-\u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05DE\u05D8\u05DC\u05D5\u05EA\\\u05DE\u05D8\u05DC\u05D4 3\\\u05D4\u05D2\u05E9\u05D4\\SpreadsheetApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:40:31.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05D1\u05DF \u05D2\u05D5\u05E8\u05D9\u05D5\u05DF\\\u05E9\u05E0\u05D4 \u05D1-\u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05DE\u05D8\u05DC\u05D5\u05EA\\\u05DE\u05D8\u05DC\u05D4 3\\\u05D4\u05D2\u05E9\u05D4\\SpreadsheetApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05E0\u05EA\u05D5\u05E0\u05D9\u05DD \u05D1\u05DF \u05D2\u05D5\u05E8\u05D9\u05D5\u05DF\\\u05E9\u05E0\u05D4 \u05D1-\u05D2\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05DE\u05E2\u05E8\u05DB\u05D5\u05EA \u05D4\u05E4\u05E2\u05DC\u05D4\\\u05DE\u05D8\u05DC\u05D5\u05EA\\\u05DE\u05D8\u05DC\u05D4 3\\\u05D4\u05D2\u05E9\u05D4\\SpreadsheetApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAArwBoAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:42:44.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
