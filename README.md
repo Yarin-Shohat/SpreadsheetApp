@@ -55,7 +55,10 @@ dotnet run --project SpreadsheetApp.csproj
 
 ## Usage
 
-- Launch the application.
-- Use the spreadsheet grid to enter and edit data.
+- Launch the application.  
+![Home Page](src/1.png)  
+- Use the spreadsheet grid to enter and edit data.  
+![After Load](src/2.png)  
 - Multiple users/threads can safely access and modify the spreadsheet concurrently.
 - Save or load spreadsheets using the menu options.
+
